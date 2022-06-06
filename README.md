@@ -3,7 +3,7 @@
 ---
 
 ioDynGoogleUpdate is desinged for when you purchase your domain from Goolgle ([Google Domain](https://domains.google.com/registrar/)) but do not have a static IP.
-This will allow you to have 1 or many doomains redirected as needed. 
+This will allow you to have domain(s) redirected as needed. 
 
 ---
 
