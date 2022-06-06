@@ -7,20 +7,21 @@ This will allow you to have 1 or many doomains redirected as needed.
 
 ---
 
-This application is desinged using vb.net creating a Window Service. 
-
-Only requirment is .ini file with the following info and setup.. 
-
+This application is desinged using vb.net creating a Window Service. <br />
+<br />
+Only requirment is .ini file with the following info and setup.. <br />
+<br />
 ---
 
 ##MySites.ini (JSON)
 
-[{"Domain":"mydomain.com","Username":"U1U1U1U1U1U!","Password":"P1P1P1P1P1P!","Interval":60}]
-
-where "mydomain.com"  - is the google purchased domain.
-where "U1U1U1U1U1U!"  - is the google provided encoded username.
-where "P1P1P1P1P1P!"  - is the google provided encoded password.
-where 60              - is the number of minutes interval between update. 
+[{"Domain":"mydomain.com","Username":"U1U1U1U1U1U!","Password":"P1P1P1P1P1P!","Interval":60}]<br />
+<br />
+where "mydomain.com"  - is the google purchased domain.<br />
+where "U1U1U1U1U1U!"  - is the google provided encoded username.<br />
+where "P1P1P1P1P1P!"  - is the google provided encoded password.<br />
+where 60              - is the number of minutes interval between update. <br />
+<br />
 
 ---
 
