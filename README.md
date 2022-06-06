@@ -26,23 +26,23 @@ where 60              - is the number of minutes interval between update.
 
 ##Logfile.txt (text file)
 
-The Text file reports actions and needed responses.. 
-
-ie:
-5/10/2022 11:00:14 PM ** New File Start ** 
-5/10/2022 11:00:14 PM > Started....
-5/10/2022 11:00:14 PM > Ini Doesnt Exist....
-5/10/2022 11:00:14 PM > Ini Created....
-5/10/2022 11:00:14 PM > Will wait for user to mod & estart....
-5/10/2022 11:00:14 PM > Stoppped....
-5/10/2022 11:01:24 PM > Started....
-5/10/2022 11:01:24 PM > Ini Read....
-5/10/2022 11:01:24 PM > Setting Dyn Domain :mydomain.com
-5/10/2022 11:01:25 PM > Response Dyn Domain : mydomain.com ----> nochg 000.000.000.000
-5/10/2022 11:01:25 PM > Starting Domain : mydomain.com timer.
-5/11/2022 12:01:24 AM > Timer : mydomain.com Tick!
-5/11/2022 12:01:24 AM > Setting Dyn Domain :mydomain.com
-5/11/2022 12:01:25 AM > Response Dyn Domain : mydomain.com ----> nochg 000.000.000.000
-5/11/2022 1:01:24 AM > Timer : mydomain.com Tick!
-.. etc
-
+The Text file reports actions and needed responses.. <br />
+<br />
+ie:<br />
+5/10/2022 11:00:14 PM ** New File Start ** <br />
+5/10/2022 11:00:14 PM > Started....<br />
+5/10/2022 11:00:14 PM > Ini Doesnt Exist....<br />
+5/10/2022 11:00:14 PM > Ini Created....<br />
+5/10/2022 11:00:14 PM > Will wait for user to mod & estart....<br />
+5/10/2022 11:00:14 PM > Stoppped....<br />
+5/10/2022 11:01:24 PM > Started....<br />
+5/10/2022 11:01:24 PM > Ini Read....<br />
+5/10/2022 11:01:24 PM > Setting Dyn Domain :mydomain.com<br />
+5/10/2022 11:01:25 PM > Response Dyn Domain : mydomain.com ----> nochg 000.000.000.000<br />
+5/10/2022 11:01:25 PM > Starting Domain : mydomain.com timer.<br />
+5/11/2022 12:01:24 AM > Timer : mydomain.com Tick!<br />
+5/11/2022 12:01:24 AM > Setting Dyn Domain :mydomain.com<br />
+5/11/2022 12:01:25 AM > Response Dyn Domain : mydomain.com ----> nochg 000.000.000.000<br />
+5/11/2022 1:01:24 AM > Timer : mydomain.com Tick!<br />
+.. etc<br />
+<br />
